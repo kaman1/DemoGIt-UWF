@@ -1,1 +1,1 @@
-# DemoGIt-UWF
+# Demo-GIT-UWF
